@@ -1,0 +1,36 @@
+
+.navWrap {
+    float: right;
+    height: 70px;
+    width: 185px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.iconBox {
+    float: left;
+    height: 60px;
+    margin: 10px 0 0 1px;
+    position: relative;
+    width: 60px;
+    list-style: none;
+}
+
+.icon {
+    /* background: url('https://www.starbucks.co.kr/common/img/common/icon_user_m.png'); */
+    background-size: 100% auto;
+    height: 35px;
+    left: 13px;
+    top: 12px;
+    width: 35px;
+    position: absolute;
+    color: #666;
+}
+

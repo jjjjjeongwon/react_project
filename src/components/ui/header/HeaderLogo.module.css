@@ -1,0 +1,18 @@
+.logoWrap {
+    height: 45px;
+    left: 10px;
+    position: absolute;
+    top: 13px;
+    width: 45px;
+    margin: 0;
+}
+
+.logoImage {
+    background: url('https://www.starbucks.co.kr/common/img/common/logo.png');
+    background-size: 45px auto;
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    text-indent: -20000px;
+    width: 100%;
+}
