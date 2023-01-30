@@ -1,0 +1,32 @@
+.productList {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: #f4f4f2;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.coffeeTitle {
+    display: block;
+    float: left;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #222;
+    margin: 10px 5px 10px 0 ;
+}
+
+.summaryIcon {
+    display: block;
+    float: left;
+    width: 45px;
+    height: 18px
+}
+
+.icon {
+    vertical-align: top;
+    max-width: 100%;
+}

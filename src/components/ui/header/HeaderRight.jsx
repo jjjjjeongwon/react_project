@@ -13,10 +13,10 @@ const HeaderRight = () => {
         <a href='/'><BsFillPersonFill className={style.icon}/></a>
         </li>
         <li className={style.iconBox}>
-        <a href='/' >< MdCoffee className={style.icon}/></a>
+        <a href='/'><BsFillCartFill className={style.icon}/></a>
             </li>
         <li className={style.iconBox}>
-        <a href='/'><BsFillCartFill className={style.icon}/></a>
+        <a href='/' >< MdCoffee className={style.icon}/></a>
             </li>
         </ul>
     </nav>
