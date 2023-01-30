@@ -1,0 +1,26 @@
+.container {
+    margin-bottom: 40px;
+    background-color: antiquewhite;
+}
+
+.menu {
+    width: 49%;
+    margin: 0.5%;
+    float: left;
+}
+
+.image {
+    height: auto;
+    width: 100%;
+}
+
+.menuName {
+    font-size: 14px;
+    color: #444;
+    height: 54px;
+    line-height: 54px;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
